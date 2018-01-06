@@ -1,4 +1,12 @@
-# 图表那么多，哪种最合适你
+---
+layout: post
+title: 图表那么多，哪种最合适你
+categories: posts infovis
+description: 想要将你的“故事”转换成图表更有说服力，但是又苦于不知如何选择？
+keywords: 图表,类型,选择
+permalink: /:categories/:title.html
+---
+
 想要将你的“故事”转换成图表更有说服力，但是又苦于不知如何选择？？？  
 让我简单告诉您，在什么情况下创建以下类型的可视化效果，让图表替您发声：
   

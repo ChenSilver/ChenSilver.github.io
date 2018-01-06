@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 图表那么多，哪种最合适你
-categories: posts infovis
+categories: infovis
 description: 想要将你的“故事”转换成图表更有说服力，但是又苦于不知如何选择？
 keywords: 图表,类型,选择
 permalink: /:categories/:title.html
@@ -26,8 +26,9 @@ permalink: /:categories/:title.html
 
 ## 折线图
 > 与条形图和饼图一样，折线图也是最常用的一种图表类型。折线图可连接各个单独的数值数据点。结果就是以简单、直接的方式显示数值序列。其主要用途就是显示一段时间内的趋势。  
-> 
-![image](http://note.youdao.com/favicon.ico) 
+
+   ![image](http://note.youdao.com/favicon.ico) 
+
 - 查看数据随时间推移的趋势。eg：五年期的股价变化、一个月内的网页浏览量、逐季收入增长情况。  
  
 另外可以考虑：
@@ -135,6 +136,7 @@ permalink: /:categories/:title.html
 快速理解绩效的度量情况。
 - 向仪表板添加靶心图，便于概括。
 - 将靶心图与其他图表类型结合到仪表板中，从而支持完成目标所需关注点相关的卓有成效的讨论。  
+
 ## 热点图
 > 热点图是使用色彩跨两个类别比较数据的理想方式。作用是快速看清两个类别的交集哪
 里最强，哪里最弱。 

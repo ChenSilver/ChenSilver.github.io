@@ -33,8 +33,8 @@ navs:
     label: 分类
 
   -
-    href: /wiki/
-    label: 维基
+    href: /infovis/
+    label: 信息可视化作品集
 
   -
     href: /links/

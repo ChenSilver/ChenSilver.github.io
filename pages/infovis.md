@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Wiki
+title: 信息可视化设计作品集
 description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+keywords: 可视化，tableau，作品集，infovis
 comments: false
 menu: 维基
-permalink: /wiki/
+permalink: /infovis/
 ---
 
 > 记多少命令和快捷键会让脑袋爆炸呢？

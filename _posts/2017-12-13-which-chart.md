@@ -4,6 +4,7 @@ title: 图表那么多，哪种最合适你
 categories: posts infovis
 description: 想要将你的“故事”转换成图表更有说服力，但是又苦于不知如何选择？
 keywords: 图表,类型,选择
+permalink: /:categories/:title.html
 ---
 
 想要将你的“故事”转换成图表更有说服力，但是又苦于不知如何选择？？？  

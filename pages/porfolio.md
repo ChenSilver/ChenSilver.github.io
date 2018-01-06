@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Links
+title: web
 description: 没有链接的博客是孤独的
-keywords: 友情链接
+keywords: web,网页,设计,作品集
 comments: true
-menu: 链接
-permalink: /links/
+menu: 作品集
+permalink: /porfolio/
 ---
 
 > God made relatives. Thank God we can choose our friends.

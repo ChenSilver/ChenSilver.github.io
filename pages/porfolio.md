@@ -12,9 +12,18 @@ permalink: /porfolio/
  
  
 - ####  [期中专题：我国交通运输行业（铁路与公路）的现状与发展](https://bingxin70aa.github.io/Agroup/)
+> 邮电和交通发展是我国国民经济发展的先行官，我们组通过分析交通运输和邮电交通发展的现状与趋势，探讨人民收入的提高和我国社会经济发展之间是否存在着密不可分、相互相承的联系。
+
 - ####  [表单设计：看不见的客人](https://bingxin70aa.github.io/The-Invisible-Guest/)
+ > 简单尝试表单设计 :
+
+- 根据https://movie.douban.com/subject/26580232/questions/741654/?from=subject_questions 的内容对网页进行更改相关所有内容， 并附上问题链接
+- 删除两张原图片，改用两张外部链接
+- 根据https://www.bilibili.com/video/av14261943/?from=search&seid=13151661477303390015 加入视频
+- 适当使用三处注释
+
 - ####  [二C组期末专题：课程表查询](https://github.com/hujingyin/repo-C-)
-  
+> 操练Python语言开发练习：使用flask,以及模块 tsv. 和 csv.
   
 --------------------------------  
 

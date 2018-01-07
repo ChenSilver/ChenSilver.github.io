@@ -16,11 +16,3 @@ permalink: /infovis/
 
 --------------------------------
 > 如对该网页内容感兴趣，可以点击右边My Popular Repositories连接到我的Github库
-
-<ul class="listing">
-{% for wiki in site.wiki %}
-{% if wiki.title != "Wiki Template" %}
-<li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>

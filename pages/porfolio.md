@@ -18,11 +18,11 @@ permalink: /porfolio/
  > 简单尝试表单设计 :
 
   
-  1、根据https://movie.douban.com/subject/26580232/questions/741654/?from=subject_questions 的内容对网页进行更改相关所有内容， 并附上问题链接
+  1、根据[内容](https://movie.douban.com/subject/26580232/questions/741654/?from=subject_questions) 对网页进行更改相关所有内容， 并附上问题链接
   
   2、删除两张原图片，改用两张外部链接
   
-  3、根据https://www.bilibili.com/video/av14261943/?from=search&seid=13151661477303390015 加入视频
+  3、根据[宣传片](https://www.bilibili.com/video/av14261943/?from=search&seid=13151661477303390015)加入视频
   
   4、适当使用三处注释
 

@@ -8,7 +8,7 @@ menu: 作品集
 permalink: /infovis/
 ---
 
-> 好戏才刚刚开始！
+> 以下是信息可视化的部分作品，好戏才刚刚开始！
 
 <ul class="listing">
 {% for wiki in site.wiki %}

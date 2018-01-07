@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: story
 categories: collection
 description: 人越学越觉得自己无知

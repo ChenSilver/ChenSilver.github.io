@@ -22,5 +22,5 @@ permalink: /about/
 
 ## 感谢朋友与老师的帮助  
 
-- [power red](https://wanlihon.github.io)
-- [hanteng](http://wcy.nfu.edu.cn/zh/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/%E5%B8%88%E8%B5%84%E9%98%9F%E4%BC%8D/%E5%BB%96%E6%B1%89%E8%85%BE/)
+- [@power red](https://wanlihon.github.io)
+- [@hanteng](http://wcy.nfu.edu.cn/zh/%E5%AD%A6%E9%99%A2%E6%A6%82%E5%86%B5/%E5%B8%88%E8%B5%84%E9%98%9F%E4%BC%8D/%E5%BB%96%E6%B1%89%E8%85%BE/)

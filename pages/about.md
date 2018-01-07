@@ -20,8 +20,6 @@ permalink: /about/
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
 
-## 感谢朋友与老师的帮助
+## 感谢朋友与老师的帮助  
 
-{% for website in site.data.links %}
-* {{ website.name }}：[@{{ website.name }}]({{ website.url }})
-{% endif %}
+- [power red](https://wanlihon.github.io)

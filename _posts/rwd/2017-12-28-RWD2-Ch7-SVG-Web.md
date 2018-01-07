@@ -3,7 +3,7 @@ layout: post
 title: SVG，你意想不到的清晰有趣
 categories: rwd
 description:  总是在网站上放一些模糊不清的图片,看着那雪花质感很难受吧？使用SVG（Scalable Vector Graphics，可伸缩矢量图）可以帮到你 !
-keywords: SVG，动画，矢量图
+keywords: SVG,动画,矢量图
 permalink: /posts/:categories/:title.html
 ---  
 

@@ -1,9 +1,9 @@
 
-<h3>Blog posts</h3>
-<div id="blog-posts">
+<h3>Blog categories</h3>
+<div id="blog-categories">
   <ul class="list-group">
-    {% assign sorted_posts = site.posts | sort %}
-    {% for category in sorted_posts %}
+    {% assign sorted_categories = site.categories | sort %}
+    {% for category in sorted_categories %}
     <li class="list-group-item">
     <a href="{{ category[0] }}">{{ category | first }}</a>
     <span class="badge">{{ category[1].size }}</span>
@@ -15,7 +15,7 @@
 <script type="text/javascript">
 
   $(document).ready(function(){
-    $("blog-posts li").css('text-transform','capitalize')
+    $("blog-categories li").css('text-transform','capitalize')
   });
 
 </script>

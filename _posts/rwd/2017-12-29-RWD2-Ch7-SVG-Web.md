@@ -17,7 +17,7 @@ permalink: /posts/:categories/:title.html
 
   2.右键点击检查，你会发现是一大串代码！
 
-![wc_logo_code](http://bingxin70aa.github.io/images/posts/web/wc_logo_code)
+![wc_logo_code](http://bingxin70aa.github.io/images/posts/web/wc_logo_code.jpg)
 
 ## 认识SVG的根元素
 SVG的根元素有width、height和viewbox属性。（该图目前只有两个属性）
@@ -31,14 +31,14 @@ SVG的根元素有width、height和viewbox属性。（该图目前只有两个�
 这三个属性在SVG展示的时候都起到了十分重要的作用。
 
 ## 看这里最实用的：在 Web 页面中插入 SVG 
-#### 简单的 img 标签
+#### 1、 简单的 img 标签
   最直接的插入SVG图像的方式就是使用一个简单的img标签即可：
 ```
 <img src="wcy_logo.svg" alt="Amazing line art of a scone" /> 
 ```
 是不是so easy ~
 
-#### 使用 object 标签
+#### 2、使用 object 标签
 object标签是W3C推荐的用于装载非HTML内容的容器（可以在https://www.w3.org/TR/html5/embedded-content-0.html了解object的规范）。我们可以像下面这样利用它插入SVG：   
 
 ```
@@ -52,7 +52,7 @@ data和type属性其实只有一个是必须要的，但是建议都添加上。
 
 ###### 通过object标签插入到页面的SVG可以被JavaScript访问，这是采用这种插入方式的一个重要理由。
   
-#### 把 SVG 作为背景图像插入
+#### 3、把 SVG 作为背景图像插入
 SVG可以在CSS中用作一个背景图像，和其他图片格式（PNG、JPG、GIF）一样。引入SVG
 时并没有什么特别之处：
 ```
@@ -61,7 +61,7 @@ SVG可以在CSS中用作一个背景图像，和其他图片格式（PNG、JPG�
 } 
 ```
 
-#### 内联 SVG
+#### 4、内联 SVG
 由于SVG仅仅是一个XML文档，所以你可以直接将它插入到HTML中。因为wc_log的代码比较长，所以直接在Chrome右键查看源代码，这里就不赘述啦。
 
 

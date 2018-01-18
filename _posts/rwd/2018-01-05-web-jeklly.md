@@ -13,9 +13,9 @@ permalink: /posts/:categories/:title.html
 
 - **_config.yml** 保存配置的文件 。  
  
-- **_includes** 存放可以重复利用的文件。
-- **_layouts** 存放的是模板文件。
--** _posts** 存放的是文章，文章格式必须是xxxx(年份)-xx(月份)-xx(日期)-文件名，比如2018-01-05-笔记。
-- **_site** 最终生成的文件。
+- **_layouts** 存放的是模板文件（HTML档）。
+- **_drafts** 存放的是未发布的文件。
+-** _posts** 存放的是已发布的文章，特别注意！！文章格式必须是xxxx(年份)-xx(月份)-xx(日期)-文件名，比如2018-01-05-笔记。
+- **_data** “关于”页面的相关链接。
 - 每个文件都有类似以下的格式: 
-- **layout: post** （页面样式） title: xxxxx （页面名字） category: tech （分类） 
+- **layout: post** （页面样式） title: xxxxx （页面名字） category: rwd （分类） 

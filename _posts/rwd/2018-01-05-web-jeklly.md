@@ -8,7 +8,7 @@ permalink: /posts/:categories/:title.html
 ---
 
 
-###### Jekyll是一个生成静态网页的工具。
+##### Jekyll是一个生成静态网页的工具。
 > 搭建个人博客似乎听起来不简单，通过github让Jekyll来帮助你快速上手，让你拥有个完全属于自己风格的网页吧！
 
 - **_config.yml** 保存配置的文件 。  

@@ -17,7 +17,7 @@ permalink: /posts/:categories/:title.html
 
   2.右键点击检查，你会发现是一大串代码！
 
-![wc_logo_code](http://bingxin70aa.github.io/images/posts/web/wc_logo_code.jpg)
+![wc_logo_code](https://bingxin70aa.github.io/images/posts/web/wc_logo_code.jpg)
 
 ## 认识SVG的根元素
 SVG的根元素有width、height和viewbox属性。（该图目前只有两个属性）

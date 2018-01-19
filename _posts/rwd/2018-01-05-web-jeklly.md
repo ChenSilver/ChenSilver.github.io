@@ -22,4 +22,4 @@ permalink: /posts/:categories/:title.html
 - **_data** “关于”页面的相关链接。  
 
 - 每个文件都有类似以下的格式: 
- **layout  : post** （页面样式） title: xxxxx （页面名字） category: rwd （分类） 
+ **layout  : post** （页面样式） title: xxxxx （页面名字） category: tech （分类） 

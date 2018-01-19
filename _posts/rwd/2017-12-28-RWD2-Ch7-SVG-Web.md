@@ -13,11 +13,11 @@ permalink: /posts/:categories/:title.html
 ## 看一看、点一点不要钱
 1. 先简单的来从网页中打开一张[SVG图片](http://wcy.nfu.edu.cn/wp-content/uploads/_site/wcy_logo.svg)（最好用Chrome打开），悄悄告诉你这是我们学院的logo。
 
-![wenchuan_logo](http://wcy.nfu.edu.cn/wp-content/uploads/_site/wcy_logo.svg)  
+![wenchuan_logo](/images/posts/web/wcy_logo_old.svg)  
 
   2.右键点击检查，你会发现是一大串代码！
 
-![wc_logo_code](https://bingxin70aa.github.io/images/posts/web/wc_logo_code.jpg)
+![wc_logo_code](/images/posts/web/wc_logo_code.jpg)
 
 ## 认识SVG的根元素
 SVG的根元素有width、height和viewbox属性。（该图目前只有两个属性）

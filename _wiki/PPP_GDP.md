@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: infovis
 title: 购买力平价与消费水平之间的关系
 categories: tableau
 description: 购买力平价与消费水平之间的关系

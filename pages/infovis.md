@@ -26,7 +26,7 @@ permalink: /infovis/
 
 
 <ul class="listing">
-{% for infovis in site.infovis %}
+{% for wiki in site.wiki %}
 {% if wiki.title != "Wiki Template" %}
 <li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
 {% endif %}

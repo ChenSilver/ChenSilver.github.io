@@ -12,6 +12,8 @@ permalink: /posts/:categories/:title.html
 ## 详细内容：
 **数据来源**：高德地图api、国家数据统计局。  
 
+**使用工具**：tableau、Python
+
 **使用到的数据内容**：
 
 我国GDP分省年度数据、

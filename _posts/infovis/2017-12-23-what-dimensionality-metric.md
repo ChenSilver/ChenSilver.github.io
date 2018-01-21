@@ -45,11 +45,11 @@ permalink: /posts/:categories/:title.html
 
 如图所示，**蓝色药丸生成的“标题”**
 
-![tableau_bule_pill](/images/posts/infovis/tableau_bule_pill)
+![tableau_bule_pill](/images/posts/infovis/tableau_bule_pill.jpg)
 
 **绿色药丸生成的“坐标轴”**
 
-![tableau_green_pill](/images/posts/infovis/tableau_green_pill)
+![tableau_green_pill](/images/posts/infovis/tableau_green_pill.jpg)
 
 #### 好滴，小结时间又到了：
 > **蓝色药丸，分类数据，生成的“标题  

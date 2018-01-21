@@ -37,4 +37,6 @@ graph LR
 消费需求-->经济发展水平
 
 ```
-![tableau-enjoy-consume-gdp-cake](images/posts/infovis/tableau-enjoy-consume-gdp-cake.jpg)
+
+
+![image](images/posts/infovis/tableau-enjoy-consume-gdp-cake.jpg)

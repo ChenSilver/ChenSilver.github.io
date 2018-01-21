@@ -22,7 +22,7 @@ permalink: /posts/:categories/:title.html
 
 年份：2007-2016。
 
-（搜集到的数据集不仅限于以上内容，[详情](https://bingxin70aa.github.io//posts/infovis/Tableau-Pandas-catch-map-api.html)。
+（搜集到的数据集不仅限于以上内容，[详情](https://bingxin70aa.github.io//posts/infovis/Tableau-Pandas-catch-map-api.html)）
 
 **插件**：计算人均GDP、各省GDP排序。
 
@@ -31,12 +31,6 @@ permalink: /posts/:categories/:title.html
 
 ## 分析：
 
-```
-graph LR
-收入-->消费需求
-消费需求-->经济发展水平
-
-```
 
 
 ![image](/images/posts/infovis/tableau_enjoy_consume_gdp_cake.jpg)

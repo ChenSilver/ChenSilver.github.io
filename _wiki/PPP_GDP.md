@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: page
 title: 购买力平价与消费水平之间的关系
 categories: Tools
 description: 购买力平价与消费水平之间的关系

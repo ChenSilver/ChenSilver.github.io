@@ -20,7 +20,7 @@ permalink: /infovis/
   
 --------------------------------  
 
-如对该网页内容感兴趣，可以点击右边 My Popular Repositories 连接到我的 Github 库
+# 目录：作品具体分析
 
 
 

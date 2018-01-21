@@ -39,4 +39,4 @@ graph LR
 ```
 
 
-![image](images/posts/infovis/tableau_enjoy_consume_gdp_cake.jpg)
+![image](/images/posts/infovis/tableau_enjoy_consume_gdp_cake.jpg)

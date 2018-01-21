@@ -20,13 +20,13 @@ permalink: /infovis/
   
 --------------------------------  
 
-# 目录：作品具体分析
+## 目录：各作品具体分析
 
 
 
 
 <ul class="listing">
-{% for wiki in site.wiki %}
+{% for wiki in site.infovis %}
 {% if wiki.title != "Wiki Template" %}
 <li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
 {% endif %}

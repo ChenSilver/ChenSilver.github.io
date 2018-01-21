@@ -20,15 +20,5 @@ permalink: /infovis/
   
 --------------------------------  
 
-## 文章目录：各作品具体的分析
 
-
-
-
-<ul class="listing">
-{% for wiki in site.wiki %}
-{% if wiki.title != "Wiki Template" %}
-<li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
+如果想要进一步了解作品具体的分析内容，请移步至[文章](https://bingxin70aa.github.io//posts/)

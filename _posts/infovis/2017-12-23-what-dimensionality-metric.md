@@ -52,6 +52,6 @@ permalink: /posts/:categories/:title.html
 ![tableau_green_pill](/images/posts/infovis/tableau_green_pill)
 
 #### 好滴，小结时间又到了：
-> 蓝色药丸，分类数据，生成的“标题  
-绿色药丸，定量数据，生成的“坐标轴”
+> **蓝色药丸，分类数据，生成的“标题  
+绿色药丸，定量数据，生成的“坐标轴”**
 

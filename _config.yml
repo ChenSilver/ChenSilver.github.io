@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://ChenSilver.github.io
+url: https://chenying.github.io
 date_format: "ordinal"
-title: bing xin
+title: chenying
 subtitle: "不断尝试，永不停歇"
-description: "冰昕的个人博客"
-keywords: 冰昕, bingxin, hou bingxin
+description: "陈莹的个人博客"
+keywords: 陈莹, chenying
 timezone: Asia/Guangzhou
 encoding: "utf-8"
 side_bar_repo_limit: 5
